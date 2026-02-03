@@ -73,7 +73,7 @@ def recommend(movie):
         print(f"\n'{movie}' not found! Please check the movie name.")
 
     
-recommend('Emily in Paris')
+recommend('Avatar')
 recommend('Batman Begins')
 
 
